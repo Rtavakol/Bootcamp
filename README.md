@@ -21,6 +21,9 @@ The course contains:
 * [Random forest Classification](https://github.com/Rtavakol/Bootcamp/blob/master/Part%203%20-%20Classification/Section%2020%20-%20Random%20Forest%20Classification/Random_Forest_Classifier.ipynb)
 
 ## [Clustering](https://github.com/Rtavakol/Bootcamp/tree/master/Part%204%20-%20Clustering)
+* [K-Means clustering](https://github.com/Rtavakol/Bootcamp/blob/master/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/K-means%20clustering.ipynb)
+* [Hierarchical clustering](https://github.com/Rtavakol/Bootcamp/blob/master/Part%204%20-%20Clustering/Section%2025%20-%20Hierarchical%20Clustering/Hierachical%20Clustering.ipynb)
+
 ## [Association Rule Learning](https://github.com/Rtavakol/Bootcamp/tree/master/Part%205%20-%20Association%20Rule%20Learning/Section%2028%20-%20Apriori)
 ## [Reinforcement Learning](https://github.com/Rtavakol/Bootcamp/tree/master/Part%206%20-%20Reinforcement%20Learning)
 ## [Deep Learning](https://github.com/Rtavakol/Bootcamp/tree/master/Part%208%20-%20Deep%20Learning)
