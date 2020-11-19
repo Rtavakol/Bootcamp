@@ -25,7 +25,41 @@ The course contains:
 * [Hierarchical clustering](https://github.com/Rtavakol/Bootcamp/blob/master/Part%204%20-%20Clustering/Section%2025%20-%20Hierarchical%20Clustering/Hierachical%20Clustering.ipynb)
 
 ## [Association Rule Learning](https://github.com/Rtavakol/Bootcamp/tree/master/Part%205%20-%20Association%20Rule%20Learning/Section%2028%20-%20Apriori)
+* [Apriori](https://github.com/Rtavakol/Bootcamp/blob/master/Part%205%20-%20Association%20Rule%20Learning/Section%2028%20-%20Apriori/Apriori.ipynb)
+
 ## [Reinforcement Learning](https://github.com/Rtavakol/Bootcamp/tree/master/Part%206%20-%20Reinforcement%20Learning)
+* [Upper Confidence Bound (UCB)](https://github.com/Rtavakol/Bootcamp/blob/master/Part%206%20-%20Reinforcement%20Learning/Section%2032%20-%20Upper%20Confidence%20Bound%20(UCB)/Reinforcement%20Learning%20.ipynb)
+* [Thompson Sampling](https://github.com/Rtavakol/Bootcamp/blob/master/Part%206%20-%20Reinforcement%20Learning/Section%2033%20-%20Thompson%20Sampling/Thomson%20Sampling%20Algorithm.ipynb)
+
+
 ## [Deep Learning](https://github.com/Rtavakol/Bootcamp/tree/master/Part%208%20-%20Deep%20Learning)
+* [Artificial Neural Networks (ANN)](https://github.com/Rtavakol/Bootcamp/blob/master/Part%208%20-%20Deep%20Learning/Section%2039%20-%20Artificial%20Neural%20Networks%20(ANN)/Artificial%20Neural%20Network.ipynb)
+* [Convolutional Neural Networks (CNN)](https://github.com/Rtavakol/Bootcamp/blob/master/Part%208%20-%20Deep%20Learning/Section%2040%20-%20Convolutional%20Neural%20Networks%20(CNN)/Convlutional%20Neuron%20Network.ipynb)
+
 ## [Dimensionality Reduction](https://github.com/Rtavakol/Bootcamp/tree/master/Part%209%20-%20Dimensionality%20Reduction)
+* [Principal Component Analysis (PCA)](https://github.com/Rtavakol/Bootcamp/blob/master/Part%209%20-%20Dimensionality%20Reduction/Section%2043%20-%20Principal%20Component%20Analysis%20(PCA)/Principle%20Component%20Analysis.ipynb)
+* [Linear Discriminant Analysis (LDA)](https://github.com/Rtavakol/Bootcamp/blob/master/Part%209%20-%20Dimensionality%20Reduction/Section%2044%20-%20Linear%20Discriminant%20Analysis%20(LDA)/Linear%20Discriminate%20Analysis.ipynb)
+* [Kernel PCA](https://github.com/Rtavakol/Bootcamp/blob/master/Part%209%20-%20Dimensionality%20Reduction/Section%2045%20-%20Kernel%20PCA/Kernel%20PCA.ipynb)
+
 ## [Model Selection and Boosting](https://github.com/Rtavakol/Bootcamp/tree/master/Part%2010%20-%20Model%20Selection%20%26%20Boosting)
+ * [Model-Selection Grid Search](https://github.com/Rtavakol/Bootcamp/blob/master/Part%2010%20-%20Model%20Selection%20%26%20Boosting/Section%2048%20-%20Model%20Selection/Model%20Selection-Grid-search.ipynb)
+ * [Model-Selection k-fold Validation](https://github.com/Rtavakol/Bootcamp/blob/master/Part%2010%20-%20Model%20Selection%20%26%20Boosting/Section%2048%20-%20Model%20Selection/Model%20Selection-k-fold-validation.ipynb)
+ * [XGBoost](https://github.com/Rtavakol/Bootcamp/blob/master/Part%2010%20-%20Model%20Selection%20%26%20Boosting/Section%2049%20-%20XGBoost/XGBoost.ipynb)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
